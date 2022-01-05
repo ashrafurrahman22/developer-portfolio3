@@ -20,7 +20,7 @@ h1{
 #set-border{
     border-left: 3px solid;
     border-color: blueviolet;
-    padding: 10px;
+    padding-left: 20px;
     text-align: justify;
 }
 .set-color{
