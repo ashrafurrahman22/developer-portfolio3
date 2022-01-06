@@ -8,12 +8,20 @@ body{
     margin-right: 2%;
     text-align: justify;
 }
+#bg-section-3{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 15%;
+    
+}
 .setup-division{
     width: 50%;
     margin-right: 8%;
 }
 .setup-division img{
-    width: 70%;       
+    width: 70%;  
+    margin-left: 10%;     
 }
 .mission-item{
     width: 40%;
